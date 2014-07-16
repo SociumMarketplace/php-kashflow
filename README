@@ -1,5 +1,7 @@
-PHP kit for the web based KashFlow accounting software
+Kashflow PHP API, originally based off https://github.com/tieronedesign/php-kashflow - used for Socium Marketplace.
+
+Not all functions implemented, if you'd like some added please create an 'issue'.
+
+No warrenty provided.
 
 Originally written by Steve Bates
-
-For help and any questions, please visit http://www.tieronedesign.co.uk/kashflow
